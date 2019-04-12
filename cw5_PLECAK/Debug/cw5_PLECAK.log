@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  cw5_PLECAK.cpp
+f:\informatyka\aisd\cw5_plecak\cw5_plecak\cw5_plecak.cpp(182): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\informatyka\aisd\cw5_plecak\cw5_plecak\cw5_plecak.cpp(195): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  cw5_PLECAK.vcxproj -> F:\Informatyka\AiSD\cw5_PLECAK\Debug\cw5_PLECAK.exe
